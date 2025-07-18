@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A Developer Evolving Through Code</h3>
+<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h3 align="center">A Data Scientist Evolving Through Code</h3>
 
-- 📫 How to reach me **ayushtayal685@gmail.com**
+- 📫 How to reach me **nbhardwaj502mi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush685/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush685" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ayush.tayal7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayush.tayal7/ height="30" width="40" /></a>
-<a href="https://leetcode.com/u/AyushhCodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AyushhCodes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-bhardwaj-808bb923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush685" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bhardwaj.nikhil_one8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayush.tayal7/ height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Nikhil_Bhardwaj_2005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AyushhCodes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
