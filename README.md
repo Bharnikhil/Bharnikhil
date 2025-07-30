@@ -14,15 +14,50 @@
 
 ### 💼 Skills & Expertise
 
-**Languages & Core Skills:**  
-`Python` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `MySQL` • `PostgreSQL`  
-`Machine Learning` • `NLP` • `Computer Vision` • `HTML/CSS/JS` • `Java` • `OOP`
+#### 📌 Languages & Core Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+</p>
 
-**Frameworks & Libraries:**  
-`scikit-learn` • `TensorFlow` • `PyTorch` • `Flask`
+<p align="left">
+  Python • NumPy • Pandas • MySQL • PostgreSQL • HTML • CSS • JavaScript • Java • OOP • Machine Learning • NLP • Computer Vision
+</p>
 
-**Tools & IDEs:**  
-`VS Code` • `PyCharm` • `IntelliJ IDEA` • `Git`
+---
+
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" />
+</p>
+
+<p align="left">
+  TensorFlow • PyTorch • Flask • Scikit-learn
+</p>
+
+---
+
+#### 🧰 Tools & IDEs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+</p>
+
+<p align="left">
+  VS Code • PyCharm • IntelliJ IDEA • Git
+</p>
 
 ---
 
@@ -49,7 +84,6 @@
 ### ⚽ Outside Tech
 
 I’m a passionate cricketer 🏏 (medium pace all-rounder) and a nature lover 🌄.  
-You’ll usually find me chasing mountain views, walking in forests, or diving into AI projects with music in the background.
+You’ll usually find me chasing mountain views, walking in forests, or building something cool with data and AI.
 
 ---
-
